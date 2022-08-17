@@ -1,5 +1,5 @@
-hub myHub
-shortLabel my hub
-longLabel my hub
+hub drosophilaHub
+shortLabel Drosphila_spp_hub
+longLabel Drosophila_species_hub
 genomesFile genomes.txt
-email NoEmail
+email dylansosa@uchicago.edu
